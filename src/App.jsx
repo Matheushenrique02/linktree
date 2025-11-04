@@ -3,10 +3,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="flex flex-col justify-center items-center min-h-screen w-screen bg-orange-300 overflow-x-hidden">
+    <div className="flex flex-col justify-center items-center min-h-screen w-screen bg-orange-300 ">
       
       {/* Conteúdo principal */}
-      <div className="flex flex-col justify-center items-center max-w-[700px] w-[90%] p-5 mt-1 rounded-xl bg-cover bg-center overflow-x-hidden">
+      <div className="flex flex-col justify-center items-center max-w-[550px] w-[90%] p-5 mt-1 rounded-xl bg-cover bg-center ">
 
         {/* Foto com animação */}
         <div className="flex justify-center items-center w-[150px] h-[150px] [perspective:1000px]">
