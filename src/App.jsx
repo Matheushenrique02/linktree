@@ -89,7 +89,7 @@ function App() {
           <a href="https://pv.b4you.com.br/pages/c0d79ba0-d955-40f9-9524-d8185ed78c3d/4mH3Od3_O_" target="_blank" rel="noopener noreferrer">
             <div className="link text">Reset 15D</div>
           </a>
-          <a href="">
+          <a href="https://collshp.com/nutrivibe.br?view=storefront" target="_blank" rel="noopener noreferrer">
             <div className="link text">Produtos Shopee</div>
           </a>
         </nav>
