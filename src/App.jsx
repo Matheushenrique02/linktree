@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="flex flex-col justify-center items-center min-h-screen w-screen bg-orange-300 ">
+    <div className="flex flex-col justify-center items-center min-h-screen w-screen bg-orange-300 lg:overflow-y-hidden overflow-y-auto">
       
       {/* Conteúdo principal */}
       <div className="flex flex-col justify-center items-center max-w-[550px] w-[90%] p-5 mt-1 rounded-xl bg-cover bg-center ">
